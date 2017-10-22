@@ -20,3 +20,5 @@ https://www.cnx-software.com/2017/07/30/how-to-setup-an-orange-pi-zero-diy-smart
 5. `hass`
 
 Open up your browser with your IP address: IpAddress:8123
+
+If you are having issues with the sound, make sure to take a second look at: https://www.cnx-software.com/2017/07/30/how-to-setup-an-orange-pi-zero-diy-smart-speaker-with-google-assistant-sdk/
